@@ -1,1 +1,1 @@
-# SocietyManagementHub
+# hii this is an society management system project.
