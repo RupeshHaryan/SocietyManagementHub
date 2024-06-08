@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Successful</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .message {
+            font-size: 35px;
+            color: green;
+            margin-bottom: 20px;
+        }
+        .redirect {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">Thank You for making a payment!</div>
+    <div class="redirect">Redirecting you to the next page...</div>
+    <script>
+      
+        setTimeout(function() {
+            window.location.href = "payment.php"; // Replace with the actual page URL
+        }, 6000); 
+    </script>
+</body>
+</html>
