@@ -1,5 +1,5 @@
 # Society-Management-System
-Society Management System is a Website which is provided to society members who can get all the updates related to their society. The members also get notified with notices and events held in society and  can see information about members in society. Members can also post complaints regarding any  issue in society. The only admin has right to modify the database which holds information of  members. Also, the admin can perform tasks that are done by the normal members of this  system.
+The Society Management System is a web-based application designed to streamline the management tasks of residential societies or communities. This system aims to simplify the process of managing various aspects such as member information, facility bookings, complaint resolution, and financial transactions within a society.
 
 To run project on your Desktop/laptop follow below given steps:-
 1. Install XAMPP on your System.
