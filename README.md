@@ -46,3 +46,9 @@ promoting efficient management practices and fostering harmonious living environ
 ![alt text](app-service1.JPG)
 
 ![alt text](app-service2.JPG)
+
+## Database:
+![alt text](database1.JPG)
+![alt text](database2.JPG)
+![alt text](database3.JPG)
+![alt text](database4.JPG)
