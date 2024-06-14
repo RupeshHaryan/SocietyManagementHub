@@ -41,7 +41,7 @@ promoting efficient management practices and fostering harmonious living environ
 ## App Service:
 ![alt text]Webapp1.PNG)
 
-![alt text](webapp2.jpg)
+![alt text](webapp2.JPG)
 
 ![alt text](App_Service1.png)
 
