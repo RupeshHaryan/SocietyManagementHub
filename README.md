@@ -35,3 +35,15 @@ promoting efficient management practices and fostering harmonious living environ
 # Resource Visualizer
 
 ![alt text](SocietyManagementSystem.jpg)
+
+# Azure Resources Overview
+
+## App Service:
+![alt text]Webapp1.PNG)
+
+![alt text](webapp2.png)
+
+![alt text](App_Service1.png)
+
+![alt text](App-Service2.png)
+
