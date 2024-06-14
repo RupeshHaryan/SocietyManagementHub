@@ -39,7 +39,7 @@ promoting efficient management practices and fostering harmonious living environ
 # Azure Resources Overview
 
 ## App Service:
-![alt text]Webapp1.PNG)
+![alt text](Webapp1.PNG)
 
 ![alt text](webapp2.JPG)
 
