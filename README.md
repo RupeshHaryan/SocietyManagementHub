@@ -59,3 +59,9 @@ promoting efficient management practices and fostering harmonious living environ
 ![alt text](chatbot3.JPG)
 ![alt text](chatbot4.JPG)
 ![alt text](chatbot5.JPG)
+
+## Azure Backup:
+![alt text](<azurebackup.JPG>)
+
+## Azure Storage:
+![alt text](<azurestorage.JPG>)
