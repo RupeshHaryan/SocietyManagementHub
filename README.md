@@ -4,7 +4,7 @@ The Society Management System is a web-based application designed to streamline 
 ### Working Links for the Project
 Web Application hosted on Azure -> [Society Management System](http://4.188.240.31/SOCIETY/login.html)
 
-Github Repository -> https://github.com/RupeshHaryan/SocietyManagementHub
+Github Repository -> https://github.com/RupeshHaryan/SocietyManagementHub.git
 
 Project Documentation With Project Video-> [Guide](https://drive.google.com/drive/folders/1qejoXr2uFto9ytSFhtZuB0Bbe-Y-tGp_?usp=sharing)
 
