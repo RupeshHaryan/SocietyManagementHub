@@ -65,3 +65,16 @@ promoting efficient management practices and fostering harmonious living environ
 
 ## Azure Storage:
 ![alt text](<azurestorage.JPG>)
+
+# WebSite Preview
+
+![alt text](img1.JPG)
+
+![alt text](img2.JPG)
+
+![alt text](img3.JPG)
+
+![alt text](img4.JPG)
+
+
+
