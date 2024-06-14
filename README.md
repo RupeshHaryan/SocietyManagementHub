@@ -78,3 +78,12 @@ promoting efficient management practices and fostering harmonious living environ
 
 
 
+
+
+
+
+
+
+
+
+This is the Society Management System Project created for internship purposes.<br>
