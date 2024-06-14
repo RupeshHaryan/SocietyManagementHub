@@ -52,3 +52,10 @@ promoting efficient management practices and fostering harmonious living environ
 ![alt text](database2.JPG)
 ![alt text](database3.JPG)
 ![alt text](database4.JPG)
+
+## Azure AI Service:
+![alt text](chatbot1.JPG)
+![alt text](chatbot2.JPG)
+![alt text](chatbot3.JPG)
+![alt text](chatbot4.JPG)
+![alt text](chatbot5.JPG)
