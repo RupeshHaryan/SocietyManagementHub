@@ -4,14 +4,5 @@ The Society Management System is a web-based application designed to streamline 
 ### Working Links for the Project
 Web Application hosted on Azure -> [Society Management System](http://4.188.240.31/SOCIETY/login.html)
 
-Admin login Details:-
+Github Repository -> https://github.com/RupeshHaryan/SocietyManagementHub
 
-Username:- Admin
-
-Admin Code:- 100
-
-For databases you need PhpMyadmin,create databases as per your need.(Refer database daigram in documention Folder.)
-
-For more details and Screenshot Refer Documention Folder PDF..!!
-
-Enjoy the Project..!!!
