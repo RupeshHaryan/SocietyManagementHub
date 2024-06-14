@@ -17,3 +17,21 @@ With a focus on security, accessibility, and data privacy, it ensures the smooth
 Through continuous feedback mechanisms and customizable features, the system adapts to the evolving needs of residents and committee members,<br>
 promoting efficient management practices and fostering harmonious living environments.
 
+# Azure Services Used
+
+1.Azure app service (To create and host the website online)<br>
+2.Azure SQL Database Sevice (To Store the data into an SQL database)<br>
+3.Azure AI Service (An ai service(chatbot) integrated into the website)<br>
+4.Azure BackUp Service (To create a Backup of our Web App)<br>
+5.Azure Storage service(To store backup files)<br>
+
+# Web Tecnologies Used
+
+1.HTML<br>
+2.CSS<br>
+3.PHP<br>
+4.MySQl<br>
+
+# Resource Visualizer
+
+![alt text](SocietyManagementSystem.jpg)
