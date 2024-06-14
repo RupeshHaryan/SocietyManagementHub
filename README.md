@@ -6,7 +6,7 @@ Web Application hosted on Azure -> [Society Management System](http://4.188.240.
 
 Github Repository -> https://github.com/RupeshHaryan/SocietyManagementHub.git
 
-Project Documentation With Project Video-> [Guide](https://drive.google.com/drive/folders/1qejoXr2uFto9ytSFhtZuB0Bbe-Y-tGp_?usp=sharing)
+Project Documentation With Project Video-> [Guide](https://drive.google.com/file/d/1bJWRBlSZFTw2cQUYgj1KlvZAePHpwV0B/view?usp=drivesdk)
 
 # Project Aim
 A society management system project aims to revolutionize the administrative processes and communication channels within residential communities.<br>
